@@ -17,6 +17,7 @@
 		34882CEF20EA9205000E9424 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34882CED20EA9205000E9424 /* LaunchScreen.storyboard */; };
 		34882CFA20EA9205000E9424 /* MedicubedTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34882CF920EA9205000E9424 /* MedicubedTests.swift */; };
 		34882D0520EA9205000E9424 /* MedicubedUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34882D0420EA9205000E9424 /* MedicubedUITests.swift */; };
+		34882D1320EA9681000E9424 /* Medicubed in Resources */ = {isa = PBXBuildFile; fileRef = 34882D1220EA9681000E9424 /* Medicubed */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		34882D0020EA9205000E9424 /* MedicubedUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MedicubedUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		34882D0420EA9205000E9424 /* MedicubedUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedicubedUITests.swift; sourceTree = "<group>"; };
 		34882D0620EA9205000E9424 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34882D1220EA9681000E9424 /* Medicubed */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Medicubed; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				34882CE420EA9203000E9424 /* GameScene.swift */,
 				34882CE620EA9203000E9424 /* GameViewController.swift */,
 				34882CE820EA9203000E9424 /* Main.storyboard */,
+				34882D1220EA9681000E9424 /* Medicubed */,
 				34882CEB20EA9205000E9424 /* Assets.xcassets */,
 				34882CED20EA9205000E9424 /* LaunchScreen.storyboard */,
 				34882CF020EA9205000E9424 /* Info.plist */,
@@ -239,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				34882CEA20EA9203000E9424 /* Main.storyboard in Resources */,
+				34882D1320EA9681000E9424 /* Medicubed in Resources */,
 				34882CE120EA9203000E9424 /* GameScene.sks in Resources */,
 				34882CEC20EA9205000E9424 /* Assets.xcassets in Resources */,
 				34882CEF20EA9205000E9424 /* LaunchScreen.storyboard in Resources */,
